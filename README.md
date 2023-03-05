@@ -1,4 +1,4 @@
-#Note: to access python code files, go to Master by 
+#Note: to access python code files, go to Master by clinking on main, then Mater. This is found on the left hadside of the project folder. 
 # UNET_AI_Project1
 # This project was complied as part of Artificial Intelligence assignment
 # The aim of the project was to get student familiar with AI concepts and "hands on" programmig using Python, Pytorch and Lightning. 
